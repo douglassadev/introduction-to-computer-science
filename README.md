@@ -2,8 +2,8 @@
 Notes on Computer Science by Douglas Silva
 
 ## Introduction
-- Dados:
-  - Representação
-  - Armazenamento
-  - Tranformação
-  - Transferência
+- Data:
+  - Representation
+  - Storage
+  - Transformation
+  - Transfer
