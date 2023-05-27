@@ -3,7 +3,9 @@ Notes on Computer Science by Douglas Silva
 
 ## Introduction
 - Data:
-  - Representation
+  - Representations
+    - bit (0 or 1)
+    - bytes (8x bit)
   - Storage
   - Transformation
   - Transfer
